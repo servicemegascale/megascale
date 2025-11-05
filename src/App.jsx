@@ -141,7 +141,7 @@ import ContactForm from "./pages/ContactForm";
 import Robotics from "./services/Robotics";
 import Artificial_intellegence from "./services/Ai";
 import Webdevleopment from "./services/Webdevleopment";
-import Ourservices from "./services/Ourservices";
+import Ourservices from "./services/OurServices";
 import Network from "./services/Network";
 import MobileAppDevelopment from "./services/MobileAppDevelopment";
 import Iphone from "./services/Iphone";
