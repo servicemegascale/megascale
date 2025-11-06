@@ -11,6 +11,7 @@ import Faq from "./Faq";
 import SevenStepProcess from './SevenStepProcess';
  import HeroSection from "./HeroSection";
 import FloatingBalloons from './FloatingBalloons';
+import SeoData from './seo_data';
 // import SuccessStories from './SuccessStories.jsx';
 export default function Home() {
   return (
@@ -38,6 +39,7 @@ export default function Home() {
       <TestimonialSection />
       <Blogs />
       <Faq />
+      <SeoData />
     </>
   )
 }
