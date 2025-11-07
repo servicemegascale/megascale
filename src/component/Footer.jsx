@@ -28,7 +28,7 @@ const Footer = () => {
       items: [
         { name: "Our Services", url: "/services" },
         { name: "Web Development", url: "/services/webdevleopment" },
-        { name: "Mobile App Development", url: "/services/MobileAppDevelopment" },
+        { name: "Mobile App Development", url: "/services/mobileAppDevelopment" },
         { name: "Software Development", url: "/services/softwareDevelopment" },
         { name: "E-commerce Services", url: "/services/EcommerceServices" },
         { name: "Cloud Solutions", url: "/services/cloudsolutions" },
