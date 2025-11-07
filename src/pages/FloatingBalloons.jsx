@@ -419,49 +419,49 @@ const AIServicesHero = () => {
     size: 'medium',
     color: 'from-blue-500/20 to-cyan-500/20',
     position: { top: '45%', left: '15%' },
-    url: '/services/EcommerceServices'
+    url: '/#/services/EcommerceServices'
   },
   { 
     title: 'Web Development', 
     size: 'large', 
     color: 'from-blue-500/20 to-indigo-500/20', 
     position: { top: '40%', right: '10%' }, 
-    url: '/services/webdevleopment' 
+    url: '/#/services/webdevleopment' 
   },
   { 
     title: 'Mobile Development', 
     size: 'large', 
     color: 'from-green-500/20 to-lime-500/20', 
     position: { top: '50%', left: '45%' }, 
-    url: '/services/MobileAppDevelopment' 
+    url: '/#/services/MobileAppDevelopment' 
   },
   { 
     title: 'Software Development', 
     size: 'large', 
     color: 'from-purple-500/20 to-fuchsia-500/20', 
     position: { top: '90%', right: '10%' }, 
-    url: '/services/softwareDevelopment' 
+    url: '/#/services/softwareDevelopment' 
   },
   { 
     title: 'iOS App Development', 
     size: 'large', 
     color: 'from-teal-500/20 to-emerald-500/20', 
     position: { top: '100%', left: '20%' }, 
-    url: '/services/ios' 
+    url: '/#/services/ios' 
   },
   { 
     title: 'Digital Marketing', 
     size: 'large', 
     color: 'from-orange-500/20 to-amber-500/20', 
     position: { top: '90%', left: '45%' }, 
-    url: '/services/marketing' 
+    url: '/#/services/marketing' 
   },
   { 
     title: 'Android App Development', 
     size: 'large', 
     color: 'from-cyan-500/20 to-sky-500/20', 
     position: { top: '62%', right: '22%' }, 
-    url: '/services/Android-app' 
+    url: '/#/services/Android-app' 
   }
 ];
 
