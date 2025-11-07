@@ -461,7 +461,7 @@ const AIServicesHero = () => {
     size: 'large', 
     color: 'from-cyan-500/20 to-sky-500/20', 
     position: { top: '62%', right: '22%' }, 
-    url: '/#/services/Android-app' 
+    url: '/#/services/Andorid-app' 
   }
 ];
 
