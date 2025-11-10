@@ -21,7 +21,7 @@ const Footer = () => {
       review: "/google-review.png",
       tagline: "Empowering digital innovation worldwide.",
       phone: "+91 88500 11652",
-      email: "Megascale.surat@gmail.com",
+      email: "info@megascale.in",
     },
     services: {
       title: "Services",
@@ -71,7 +71,7 @@ const Footer = () => {
         { name: "Our Story", url: "/#/about-us" },
         { name: "Contact Us", url: "/#/contact" },
         { name: "Blogs", url: "/#/blog" },
-        { name: "Faq", url: "/#/faq" },
+        { name: "FAQ", url: "/#/faq" },
         { name: "Career", url: "/#/career" },
         { name: "Our Projects", url: "/#/projects" },
         { name: "Why Choose Us", url: "/#/why-choose-us" },
@@ -101,7 +101,7 @@ const Footer = () => {
       developmentCenters: [
         {
           city: "Surat",
-          address: "411-412,New Escon Plaza,Chhaprabhatha Road,Chhaprabhatha,Amroli,Surat,Gujarat, India. ",
+          address: "411-412, New Escon Plaza, Chhaprabhatha Road, Amroli, Surat, Gujarat - 394107 ",
           flag: "https://flagcdn.com/w40/in.png",
           url: "https://goo.gl/maps/VkN5zYqj6yp8YqZJ9",
         },
@@ -112,7 +112,6 @@ const Footer = () => {
       { icon: FaYoutube, url: "#" },
       { icon: FaInstagram, url: "#" },
       { icon: FaFacebook, url: "#" },
-      { icon: FaTwitter, url: "#" },
       { icon: FaSkype, url: "#" },
     ],
   };
