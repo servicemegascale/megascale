@@ -110,8 +110,8 @@ const Footer = () => {
     socialLinks: [
       { icon: FaLinkedin, url: "#" },
       { icon: FaYoutube, url: "#" },
-      { icon: FaInstagram, url: "#" },
-      { icon: FaFacebook, url: "#" },
+      { icon: FaInstagram, url: "https://www.instagram.com/_megascale_?igsh=c2NzYTV2eDQ3M3Uw" },
+      { icon: FaFacebook, url: "http://facebook.com/megascale.surat.96" },
       { icon: FaSkype, url: "#" },
     ],
   };
