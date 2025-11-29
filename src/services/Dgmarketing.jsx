@@ -47,7 +47,11 @@ const getIcon = (icon) => {
     Globe,
     CheckCircle,
     BarChart,
-    Rocket
+    Rocket,
+  Factory,
+  DatabaseZap,
+  Bot,
+  UserCheck
   };
   return icons[icon] || Cloud;
 };
