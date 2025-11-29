@@ -24,12 +24,12 @@ import {
   Link as LinkIcon,
   MessageCircle,
   Mail,
-  PenTool,
   Search,
   TrendingUp,
   Phone,
   MapPin,
-  Boxes
+  Boxes,
+  HeartHandshake 
 } from "lucide-react";
 
 // ===== Helper to get Icon =====
@@ -69,7 +69,7 @@ const networkAndSecurityData = {
           "We craft compelling ad campaigns alongside strategic organic growth techniques to maximize your reach."
       },
       {
-        icon: <Users size={26} />,
+        icon: <HeartHandshake size={26} />,
         heading: "Engagement is Key:",
         description:
           "Foster brand loyalty through interactive content, contests, and community management."
@@ -89,7 +89,7 @@ const networkAndSecurityData = {
           "Instagram's visual focus is ideal for businesses with a strong visual identity."
       },
       {
-        icon: <PenTool size={26} />,
+        icon: <Eye size={26} />,
         heading: "Eye-Catching Content Creation:",
         description:
           "Our team creates stunning photos, videos, and Stories that resonate with your target audience."
@@ -167,7 +167,7 @@ const networkAndSecurityData = {
           "Reach a highly engaged audience looking for inspiration and ideas on Pinterest."
       },
       {
-        icon: <PenTool size={26} />,
+        icon: <Eye size={26} />,
         heading: "Eye-Catching Pins & Boards:",
         description:
           "We help you create visually stunning pins and boards that showcase your products or services."
