@@ -43,6 +43,12 @@ export default function AboutUs() {
       CheckCircle,
       BarChart,
       Rocket,
+      ShieldCheck,
+      RefreshCcw,
+      Laptop,
+      Users,
+      Eye,
+      Lightbulb
     };
     return icons[icon] || Cloud;
   };
@@ -143,35 +149,41 @@ export default function AboutUs() {
 
   const corevalues = [
     {
-      name: "Pursuit of Innovation ",
-      description: "We actively seek out new ideas, fostering an environment that encourages creative problem-solving and the development of cutting-edge solutions.",
-      icon: "Industry",
-    },
-    {
-      name: "Transparency & Accessibility ",
-      description: "Our commitment to openness ensures that everyone has access to the information they need for informed decision-making, both within our organization and when communicating with clients and partners.",
-      icon: "Expertise",
-    },
-    {
-      name: "Inclusivity",
-      description: "Everyone on our team plays a role in improving our services; we value diverse perspectives and encourage collaboration across all levels of our organization.",
-      icon: "Robotics",
-    },
-    {
-      name: "Technology Accessibility",
-      description: "We believe technology should be easy to understand and use, not just by us but also by those we serve.",
-      icon: "Lock",
-    },
-    {
-      name: "Continuous Improvement ",
-      description: "Learning from failure is essential as we strive to improve upon innovations continually.",
-      icon: "Future",
-    },
-    {
-      name: "Integrity ",
-      description: "Honesty, transparency, and ethical behavior are at the core of how we conduct ourselves and engage with others.",
-      icon: "Future",
-    },
+  name: "Pursuit of Innovation",
+  description:
+    "We actively seek out new ideas, fostering an environment that encourages creative problem-solving and the development of cutting-edge solutions.",
+  icon: "Lightbulb",
+},
+{
+  name: "Transparency & Accessibility",
+  description:
+    "Our commitment to openness ensures that everyone has access to the information they need for informed decision-making, both within our organization and when communicating with clients and partners.",
+  icon: "Eye",
+},
+{
+  name: "Inclusivity",
+  description:
+    "Everyone on our team plays a role in improving our services; we value diverse perspectives and encourage collaboration across all levels of our organization.",
+  icon: "Users",
+},
+{
+  name: "Technology Accessibility",
+  description:
+    "We believe technology should be easy to understand and use, not just by us but also by those we serve.",
+  icon: "Laptop",
+},
+{
+  name: "Continuous Improvement",
+  description:
+    "Learning from failure is essential as we strive to improve upon innovations continually.",
+  icon: "RefreshCcw",
+},
+{
+  name: "Integrity",
+  description:
+    "Honesty, transparency, and ethical behavior are at the core of how we conduct ourselves and engage with others.",
+  icon: "ShieldCheck",
+},
   ];
 
   return (
