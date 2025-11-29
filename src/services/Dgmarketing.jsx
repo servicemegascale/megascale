@@ -28,7 +28,11 @@ import {
   TrendingUp,
   Phone,
   MapPin,
-  Boxes
+  Boxes,
+  Factory,
+  DatabaseZap,
+  Bot,
+  UserCheck
 } from "lucide-react";
 
 // ===== Helper to get Icon =====
@@ -411,25 +415,25 @@ const LayoutComponent111 = () => {
       name: "Cutting-Edge Strategies:",
       description:
         "We adopt the latest digital marketing trends to boost your brand's presence.",
-      icon: "Industry"
+      icon: "Factory"
     },
     {
       name: "Data-Driven Approach:",
       description:
         "Every strategy is backed by data and analytics for maximum impact.",
-      icon: "Expertise"
+      icon: "DatabaseZap"
     },
     {
       name: "Measurable Results:",
       description:
         "We track KPIs and regularly measure growth and performance.",
-      icon: "Robotics"
+      icon: "Bot"
     },
     {
       name: "Dedicated Team:",
       description:
         "A highly trained team works with you closely to achieve your goals.",
-      icon: "Lock"
+      icon: "UserCheck"
     }
   ];
 
