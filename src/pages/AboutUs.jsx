@@ -16,6 +16,12 @@ import {
   CheckCircle,
   BarChart,
   Rocket,
+   ShieldCheck,
+      RefreshCcw,
+      Laptop,
+      Users,
+      Eye,
+      Lightbulb
 } from "lucide-react";
 
 export default function AboutUs() {
