@@ -28,8 +28,7 @@ import {
   TrendingUp,
   Phone,
   MapPin,
-  Boxes,
-  HeartHandshake 
+  Boxes
 } from "lucide-react";
 
 // ===== Helper to get Icon =====
